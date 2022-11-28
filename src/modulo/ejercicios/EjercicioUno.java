@@ -10,7 +10,7 @@ public class EjercicioUno {
         Comentario multilínea
          */
         /**
-         * Comentario de documentación de Java
+         * Comentario de documentación de Java (Javadoc)
          */
 
         // tipos de datos primitivos
