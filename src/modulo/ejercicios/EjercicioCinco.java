@@ -21,8 +21,7 @@ public class EjercicioCinco {
 
 interface Robot {
 
-    // métodos
-    // interruptor
+    // método 'interruptor'
     public String getInterruptor();
 
 }
